@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @nitesh-2110, currently a no-code developer
+- 👋 Hi, I’m @nitesh-2110, currently a no-code developer using bubble.io
 - 👀 I’m interested in learning MERN
 - 🌱 I’m currently learning Javascript
 
